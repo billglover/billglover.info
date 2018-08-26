@@ -1,7 +1,7 @@
 ---
 title: "Art in The Age of Computers"
 date: 2018-08-25T00:00:00Z
-description: "Could art hold the key to explaining the mysteries of Artificial Intelligence? What if we could exploring their inner thoughts? What if we could see them dream?"
+description: "Art in The Age of Computers is a small display at the V&A Museum in London. I decided to try recreating one of the images by Georg Nees using Go. It’s simple a simple algorithm that produces beautiful results."
 ---
 
 My wife and I recently visited the V&A and stumbled across [Chance and Control: Art in the age of computers](https://www.vam.ac.uk/exhibitions/chance-and-control-art-in-the-age-of-computers), a small display celebrating 50 years of computer generated art. Tucked away in the corner of the second room was [Schotter](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/), a piece by Georg Nees.
