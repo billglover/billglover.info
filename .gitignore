@@ -4,3 +4,5 @@ public/*
 # ignore OS files
 .DS_Store
 
+# Project directory
+.vscode/
