@@ -155,6 +155,12 @@ nav.main-nav a.cta {
 	border-radius: 50%;
 }
 
+#post-body figure {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Typography */
 /*Accent color*/
 a,
