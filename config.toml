@@ -24,6 +24,7 @@ description = "architecture - code - people"
 socialIconStyle = "circle"
 name = "Bill Glover"
 bio = "architecture - code - people"
+twitter = "BillGlover"
 
 [social]
 twitter = "https://www.twitter.com/billglover"

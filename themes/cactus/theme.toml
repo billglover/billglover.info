@@ -1,0 +1,32 @@
+name = "Cactus"
+license = "MIT"
+licenselink = "https://github.com/billglover/hugo-cactus-theme/blob/master/LICENSE.md"
+description = "A modified version of the Cactus theme"
+homepage = "https://github.com/billglover/hugo-cactus-theme"
+tags = ["blog", "personal"]
+features = ["blog"]
+min_version = 0.29
+
+[author]
+  name = "billglover"
+  homepage = "https://billglover.me/"
+  repo = "https://github.com/billglover/hugo-cactus-theme"
+
+[original]
+  # Customised the Cactus theme
+  author = "digitalcraftsman"
+  homepage = "https://github.com/digitalcraftsman"
+  repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"
+
+[[original]]
+  # Ported the stardard theme of the Cactus for Mac static site generator to Jekyll
+  name = "Nick Balestra"
+  homepage = "http://nick.balestra.ch/"
+  repo = "https://github.com/nickbalestra/kactus"
+
+[[original]]
+  # Original creators of the stardard theme for the Cactus for Mac static site generator
+  name = "Cactus for Mac authors"
+  homepage = "http://cactusformac.com"
+  repo = "https://github.com/koenbok/Cactus"
+  
