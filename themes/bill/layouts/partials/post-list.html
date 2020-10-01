@@ -1,8 +1,0 @@
-	<article>
-		<time>{{ .Date.Format "Jan 2" }}</time>
-		<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-
-		<div class="summary">
-			{{ .Description | markdownify }}
-		</div>
-	</article>
