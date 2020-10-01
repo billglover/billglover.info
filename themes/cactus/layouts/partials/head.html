@@ -5,7 +5,7 @@
 <meta name="author" content="{{ . }}">{{ end }}
 {{ with .Site.Params.description }}
 <meta name="description" content="{{ . }}">{{ end }}
-{{ .Hugo.Generator }}
+{{ hugo.Generator }}
 <title>{{ .Title }}{{ if .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
 <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
 <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
