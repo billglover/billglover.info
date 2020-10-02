@@ -27,9 +27,11 @@ bio = "architecture - code - people"
 twitter = "BillGlover"
 
 [social]
+rss = "/index.xml"
 twitter = "https://www.twitter.com/billglover"
-github = "https://www.github.com/billglover"
-instagram = "https://www.instagram.com/billglover"
+githubalt = "https://www.github.com/billglover"
+identica = "https://social.glvr.io/web/accounts/1"
+# goodreads = "https://www.goodreads.com/billgloveruk"
 
 [taxonomies]
 tag = "tags"
