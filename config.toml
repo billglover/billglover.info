@@ -21,17 +21,21 @@ post = "/:year/:month/:day/:title/"
 [params]
 author = "Bill Glover"
 description = "architecture - code - people"
-socialIconStyle = "circle"
 name = "Bill Glover"
 bio = "architecture - code - people"
 twitter = "BillGlover"
 
 [social]
-rss = "/index.xml"
+rss-square = "/index.xml"
 twitter = "https://www.twitter.com/billglover"
-githubalt = "https://www.github.com/billglover"
-identica = "https://social.glvr.io/web/accounts/1"
-# goodreads = "https://www.goodreads.com/billgloveruk"
+github = "https://www.github.com/billglover"
+mastodon = "https://social.glvr.io/web/accounts/1"
+twitch = "https://www.twitch.tv/billgloveruk"
+linkedin = "https://www.linkedin.com/in/billgloveruk/"
+# goodreads = ""
+# weixin = ""
+# whatsapp = ""
+# keybase = ""
 
 [taxonomies]
 tag = "tags"

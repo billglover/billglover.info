@@ -1,20 +1,11 @@
 <div id="social">
-{{ if eq .Site.Params.iconFont "font-awesome" }}
-	
-	{{ range $key, $val := .Site.Social }}
-    <a class="symbol" href="{{ $val }}">
-        <i class="fa fa-{{ $key }}"></i>
-    </a>
-    {{ end }}
-
-{{ else }}
-	
-	{{ $iconStyle := .Site.Params.socialIconStyle }}
+    <!-- 
+        Font Awesome Free 5.15.0 by @fontawesome - https://fontawesome.com
+        License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+    -->
     {{ range $key, $val := .Site.Social }}
     <a class="symbol" href="{{ $val }}">
-        {{ $iconStyle }}{{ if eq $key "twitter" }}twitterbird{{ else }}{{ $key }}{{ end }}
+        <img class="icon-small" src="images/fa/{{ $key }}.svg" />
     </a>
     {{ end }}
-
-{{ end }}
 </div>
