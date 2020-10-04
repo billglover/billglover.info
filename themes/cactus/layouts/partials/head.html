@@ -14,17 +14,12 @@
 <link rel="stylesheet" href="{{ . | absURL }}">
 {{ end }}
 
-{{ if eq .Site.Params.iconFont "font-awesome" }}
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
-{{ else }}
 <link rel="stylesheet" href="{{ "css/monosocialiconsfont.css" | absURL }}">
-{{ end }}
 
 {{ with .OutputFormats.Get "rss" -}}
 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 
 {{ template "_internal/opengraph.html" . }}
-{{ template "_internal/google_news.html" . }}
 {{ template "_internal/schema.html" . }}
 {{ template "_internal/twitter_cards.html" . }}

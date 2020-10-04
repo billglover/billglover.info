@@ -41,7 +41,7 @@ At this point I should highlight that WeChat Pay isn't the only prominent mobile
 
 Whilst the individuals I spoke to cannot possibly be regarded as a representative sample of the Chinese population, I found it interesting that none were familiar with Apple Pay or how it worked. With the launch imminent, the Apple marketing machine would surely address this. But I could see something more than just a lack of knowledge, the people I spoke to just weren't that interested. They could already pay for things on their phones, why would they want to use a service provided by Apple? Just what was it that Apple was offering them?
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">If you think Apple Pay breaks new ground, you have to see how WeChat payments dominate China. Household bills, food &amp; transport. <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Bill / 葛威 (@BillGlover) <a href="https://twitter.com/BillGlover/status/698354061746147329">February 13, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">If you think Apple Pay breaks new ground, you have to see how WeChat payments dominate China. Household bills, food &amp; transport. <a href="https://twitter.com/hashtag/fintech?src=hash">#fintech</a></p>&mdash; Bill / 葛威 (@BillGlover) <a href="https://twitter.com/BillGlover/status/698354061746147329">February 13, 2016</a></blockquote>
 
 It would be easy to write Apple's efforts off. Indeed, many in the industry already have. But here is what I think Apple needs to do in order to be successful with mobile payments in China.
 

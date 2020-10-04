@@ -13,9 +13,9 @@ Most recently, I've noticed this with my attempts to learn Go. I'd completed the
 
 Last Wednesday I gave a talk at the London Gophers meet-up: Beyond the Tour. This is the story of my journey to becoming a more confident Go developer. It was great fun to pull together. Feedback most welcome.
 
-<iframe width="720" height="405" src="https://www.youtube-nocookie.com/embed/YbLwiKH88jw" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
-
 > "So you've completed the Go Tour, mastered the syntax and are unsure where to turn next? In this talk Bill takes you through a series of projects on his journey to being a more confident Go developer."
+
+**Video:** [YouTube](https://youtu.be/YbLwiKH88jw)
 
 **Slides:** [pdf](/talks/20190220_LondonGophers_BeyondTheTour.pdf)  
 **Feedback or Questions:** [email](mailto:bill@billglover.co.uk), [Twitter](https://twitter.com/billglover)
