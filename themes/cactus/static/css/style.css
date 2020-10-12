@@ -651,3 +651,20 @@ a.symbol {
 a.symbol:hover {
     color: #BCD4DA;
 }
+
+.footnote-ref {
+	vertical-align: super;
+	font-size: 0.75em;
+	text-decoration: underline;
+	margin-left: 2px;
+}
+
+.footnote-ref::before {
+	content: "[";
+	margin-right: 1px;
+}
+
+.footnote-ref::after {
+	content: "]";
+	margin-left: 1px;
+}
