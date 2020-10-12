@@ -41,3 +41,6 @@ linkedin = "https://www.linkedin.com/in/billgloveruk/"
 tag = "tags"
 category = "categories"
 series = "series"
+
+[markup.goldmark.renderer]
+unsafe= true
